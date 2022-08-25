@@ -1,0 +1,7 @@
+F:\C#\c#\fei\fei\obj\Debug\fei.csprojAssemblyReference.cache
+F:\C#\c#\fei\fei\obj\Debug\fei.csproj.CoreCompileInputs.cache
+F:\C#\c#\fei\fei\bin\Debug\fei.exe.config
+F:\C#\c#\fei\fei\bin\Debug\fei.exe
+F:\C#\c#\fei\fei\bin\Debug\fei.pdb
+F:\C#\c#\fei\fei\obj\Debug\fei.exe
+F:\C#\c#\fei\fei\obj\Debug\fei.pdb
