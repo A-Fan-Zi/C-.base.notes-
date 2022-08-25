@@ -1,0 +1,10 @@
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\bin\Debug\WindowsForms多线程之摇奖机.exe.config
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\bin\Debug\WindowsForms多线程之摇奖机.exe
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\bin\Debug\WindowsForms多线程之摇奖机.pdb
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.csprojAssemblyReference.cache
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.Form1.resources
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.Properties.Resources.resources
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.csproj.GenerateResource.cache
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.csproj.CoreCompileInputs.cache
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.exe
+F:\C#\c#\WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机\obj\Debug\WindowsForms多线程之摇奖机.pdb

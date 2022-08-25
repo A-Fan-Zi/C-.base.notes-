@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1800
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsForms多线程之摇奖机", "WindowsForms多线程之摇奖机\WindowsForms多线程之摇奖机.csproj", "{2683A395-1007-41A6-AB8B-BD6BEA3C277B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2683A395-1007-41A6-AB8B-BD6BEA3C277B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2683A395-1007-41A6-AB8B-BD6BEA3C277B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2683A395-1007-41A6-AB8B-BD6BEA3C277B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2683A395-1007-41A6-AB8B-BD6BEA3C277B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C736B6DE-D66F-49CD-A6D1-63C72149ED8A}
+	EndGlobalSection
+EndGlobal
